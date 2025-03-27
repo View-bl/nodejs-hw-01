@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "1af41a94-9b09-4c93-bf56-608b87346b91",
+    "name": "Wendell Rosenbaum",
+    "phone": "521-964-8209 x2457",
+    "email": "Art3@gmail.com",
+    "job": "Forward Solutions Producer"
+  },
+  {
+    "id": "7b57fcc3-b6c6-4248-b693-e268266d1473",
+    "name": "Ronnie Kozey",
+    "phone": "594-531-5214 x07792",
+    "email": "Sherwood.Kris16@hotmail.com",
+    "job": "Customer Web Coordinator"
+  },
+  {
+    "id": "8b92d7cf-76f3-4db2-8268-167c91b59852",
+    "name": "Clara Bruen",
+    "phone": "445-246-1419 x05701",
+    "email": "Lawson.Stark@yahoo.com",
+    "job": "Central Operations Engineer"
+  },
+  {
+    "id": "f27ca818-77ba-479d-a69a-20bc15275951",
+    "name": "Mrs. Sharon Russel",
+    "phone": "1-261-511-3285 x0309",
+    "email": "Emilia_McGlynn69@yahoo.com",
+    "job": "Corporate Factors Representative"
+  }
+]
